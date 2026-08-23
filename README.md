@@ -1,2 +1,0 @@
-# Spiderman-new
-For animation
